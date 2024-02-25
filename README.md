@@ -15,8 +15,7 @@ Before getting started, ensure you have Node.js and npm installed on your machin
 
 Certainly! A README.md file for a simple frontend site built with Vite using only HTML and CSS might look something like this:
 
-markdown
-Copy code
+
 # Simple Frontend Site with Vite
 
 This project demonstrates how to create a simple frontend website using Vite, a modern build tool for web development. In this project, we'll be using only HTML and CSS to build the website.
